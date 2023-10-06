@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-bittu" alt="dev-bittu" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **devbittu@proton.me**
 
-- ⚡ Fun fact **I am not a developer.**
+- ⚡ Fun fact **I am a developer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
