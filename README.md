@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-bittu" alt="dev-bittu" /></a> </p>
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **devbittu@proton.me**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  On my email address 😅
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
